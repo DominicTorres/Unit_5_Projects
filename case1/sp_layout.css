@@ -28,6 +28,10 @@ body{
    margin-right: auto;
    min-height: 100%;
 }
+/*step 5*/
+header>ul>nav>li>a{
+   box-sizing: border-box;
+}
 
 
 /* Row Styles */
